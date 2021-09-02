@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hw-38/static/css/main.21f8c23e.chunk.css",
+    "main.js": "/hw-38/static/js/main.557cc38a.chunk.js",
+    "main.js.map": "/hw-38/static/js/main.557cc38a.chunk.js.map",
+    "runtime-main.js": "/hw-38/static/js/runtime-main.abb1e66e.js",
+    "runtime-main.js.map": "/hw-38/static/js/runtime-main.abb1e66e.js.map",
+    "static/js/2.56864c06.chunk.js": "/hw-38/static/js/2.56864c06.chunk.js",
+    "static/js/2.56864c06.chunk.js.map": "/hw-38/static/js/2.56864c06.chunk.js.map",
+    "index.html": "/hw-38/index.html",
+    "static/css/main.21f8c23e.chunk.css.map": "/hw-38/static/css/main.21f8c23e.chunk.css.map",
+    "static/js/2.56864c06.chunk.js.LICENSE.txt": "/hw-38/static/js/2.56864c06.chunk.js.LICENSE.txt",
+    "static/media/avs.eb84905b.jpg": "/hw-38/static/media/avs.eb84905b.jpg",
+    "static/media/brazil.4e06f2e1.jpg": "/hw-38/static/media/brazil.4e06f2e1.jpg",
+    "static/media/kanada.1f0cef5e.jpg": "/hw-38/static/media/kanada.1f0cef5e.jpg",
+    "static/media/keni.91f22eba.jpg": "/hw-38/static/media/keni.91f22eba.jpg",
+    "static/media/kyrgyz.3fa2a7b5.jpg": "/hw-38/static/media/kyrgyz.3fa2a7b5.jpg",
+    "static/media/mexico.6bd43b36.png": "/hw-38/static/media/mexico.6bd43b36.png",
+    "static/media/russia.0cbb989e.jpg": "/hw-38/static/media/russia.0cbb989e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abb1e66e.js",
+    "static/js/2.56864c06.chunk.js",
+    "static/css/main.21f8c23e.chunk.css",
+    "static/js/main.557cc38a.chunk.js"
+  ]
+}
